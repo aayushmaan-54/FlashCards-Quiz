@@ -33,7 +33,7 @@ To run the project locally, follow these steps:
   <br />
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="margin: 10px;">
-      <img src="" alt="UI" />
+      <img src="https://github.com/aayushmaan-54/FlashCards-Quiz/assets/146665161/e7419059-40fb-4b71-9854-ee586be1f5ad" alt="UI" />
       <p>UI</p>
     </div>
 </div>
